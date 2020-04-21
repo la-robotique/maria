@@ -1,7 +1,7 @@
  
 body
 {
-  background:#c69692;  
+  background:#c692c2; 
   align-content: center;
   align-items: center;
   background-repeat: no-repeat;
